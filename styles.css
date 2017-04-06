@@ -1,0 +1,139 @@
+*{
+  font-family: calibri, arial, sans-serif;
+}
+header a{
+  background-color: white;
+  color: #ff5c33;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 7px;
+  font-size: 17px;
+}
+.redtxt{
+  color:#990000;
+  border-bottom: 3px solid #990000;
+  padding-bottom: 0;
+}
+.pinktxt{
+  margin-top: 5px;
+  color: #ff8080;
+}
+.orangetxt{
+  color: #ff5c33;
+}
+.logo {
+  height: 6%;
+  width: 6%;
+  padding-bottom: 5px;
+}
+.converse{
+  height: 55%;
+  width: 55%;
+  align: center;
+}
+.arrivalDate{
+  color: #992600;
+  padding-top: -10px;
+  margin-top: -30px;
+  font-size: 10px;
+}
+article{
+  background-color: #ff5c33;
+  color: white;
+  padding-left: 300px;
+  border-top: 7px solid #ff4000;
+  padding-bottom: 25px;
+  font-size: 35px;
+}
+.quickSneakInfo{
+  border-top: 1px dashed #e62e00;
+  border-bottom: 1px dashed #e62e00;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 315px;
+  color: white;
+}
+button{
+  border-radius: 10px;
+  border: solid;
+  background: white;
+  height: 40px;
+  width: 90px;
+  color: #ff5c33;
+  font-weight: bold;
+}
+/*body{
+  background-color: ;
+}
+/*.container{
+   background-color: #ff5c33;
+   width: 57%;
+   height: 0%;
+   margin: auto;
+}*/
+h1{
+  font-size: 30px;
+  color: white;
+}
+a{
+  font-size: 14px;
+  font-family: calibri, arial, sans-serif;
+  text-decoration: none;
+  color: white;
+}
+.midPageLinks{
+  border-bottom: 2px solid #ff8080;
+  font-weight: bold;
+  font-size: 25px;
+}
+p{
+  font-size: 14px;
+  color: #b3b3b3;
+}
+.title{
+  background: #e6e6e6;
+  padding-left: 450px;
+  padding-top: 17px;
+  height: 45px;
+  margin-bottom: 0px;
+}
+article .underline{
+  text-decoration: underline;
+  color: #992600;
+}
+.midWebPageInfo{
+  background-color: white;
+  padding-left: 300px;
+}
+h2{
+  font-size: 20px;
+}
+h6{
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.shoe{
+  height: 43%;
+  width: 43%;
+  text-decoration: underline, blue;
+}
+footer{
+  background-color: white;
+}
+footer a{
+  color: #ff5c33;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+}
+li{
+  display: inline;
+  color: #bfbfbf;
+}
+footer .graytxt{
+  color: #bfbfbf;
+  text-decoration: underline;
+}
